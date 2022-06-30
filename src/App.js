@@ -1,8 +1,10 @@
+import ExpenseItem from "./components/ExpenseItem";
+
 function App() {
   return (
     <div>
-      <h1>Ahmad Nurdiansah!</h1>
-      <h2>this is also visible!</h2>
+      <h1>Let's get started!</h1>
+      <ExpenseItem />
     </div>
   );
 }
