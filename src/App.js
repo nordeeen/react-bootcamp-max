@@ -12,19 +12,19 @@ function App() {
       id: "e2",
       title: "Car Insurance",
       amount: "294.67",
-      date: new Date(2022, 2, 28),
+      date: new Date(2022, 7, 28),
     },
     {
       id: "e3",
       title: "Buy Ayam Geprek",
       amount: "10.000",
-      date: new Date(2022, 2, 11),
+      date: new Date(2022, 5, 11),
     },
     {
       id: "e4",
       title: "Buy Smartphone",
       amount: "1294.62",
-      date: new Date(2022, 2, 21),
+      date: new Date(2022, 3, 21),
     },
   ];
 
