@@ -14,7 +14,7 @@ const App = () => {
       id: "e2",
       title: "Car Insurance",
       amount: "294.67",
-      date: new Date(2022, 7, 28),
+      date: new Date(2020, 7, 28),
     },
     {
       id: "e3",
